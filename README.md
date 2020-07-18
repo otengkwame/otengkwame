@@ -2,7 +2,7 @@
 <h3 align="center"> A software engineer silently engineering my world. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
 
-- 🔭 I’m currently working on [PenSyls](pensyls.com){:target="_blank"}
+- 🔭 I’m currently working on [PenSyls](https://pensyls.com){:target="_blank"}
 
 - 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make it easy for beginners. Link here: [CodeIgniter](codeigniter.com){:target="_blank"}
 
