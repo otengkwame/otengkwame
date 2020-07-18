@@ -1,10 +1,10 @@
 <h1 align="center">Hello 👋, I'm Developer Kwame.</h1>
-<h3 align="center"> A software engineer designing my engineering worl silently. </h3>
+<h3 align="center"> A software engineer silently engineering my world. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
 
 - 🔭 I’m currently working on [PenSyls](pensyls.com)
 
-- 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make easy for beginners [CodeIgniter](codeigniter.com)
+- 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make it easy for beginners [CodeIgniter](codeigniter.com)
 
 - 👨‍💻 All of my projects are available at [developerkwame.com](developerkwame.com)
 
