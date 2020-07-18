@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [PenSyls](pensyls.com)
 
-- 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make it easy for beginners [CodeIgniter](codeigniter.com)
+- 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make it easy for beginners. Link here: [CodeIgniter](codeigniter.com)
 
 - 👨‍💻 All of my projects are available at [developerkwame.com](developerkwame.com)
 
