@@ -2,11 +2,11 @@
 <h3 align="center"> A software engineer silently engineering my world. </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
 
-- 🔭 I’m currently working on [PenSyls](https://pensyls.com){:target="_blank"}
+- 🔭 I’m currently working on <a href="https://pensyls.com" target="_blank">PenSyls</a>
 
-- 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make it easy for beginners. Link here: [CodeIgniter](codeigniter.com){:target="_blank"}
+- 👯 I’m looking to collaborate on CodeIgniter 3 and extend to make it easy for beginners. Link here: <a href="https://codeigniter.com" target="_blank">CodeIgniter</a>
 
-- 👨‍💻 All of my projects are available at [developerkwame.com](developerkwame.com){:target="_blank"}
+- 👨‍💻 All of my projects are available at <a href="https://developerkwame.com" target="_blank">
 
 - 💬 Ask me about **PHP and JavaScript and I might also help in explaining some programming concepts**
 
