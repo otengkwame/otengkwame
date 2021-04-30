@@ -35,8 +35,15 @@
 <p align="center"> 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD)](https://git.io/streak-stats)
 </p>
+
+<p align="center">
+    <img alt="Oteng Kwame's streak" src="http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD"/>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
 ## :ok_hand: Activity Graph
 
 <p align="center"> 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=otengkwame&bg_color=ffffff&color=9e4c98&line=5b4c9e&point=bf0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img alt="Oteng Kwame's activity graph" src="https://activity-graph.herokuapp.com/graph?username=otengkwame&bg_color=ffffff&color=9e4c98&line=5b4c9e&point=bf0303&area=true&hide_border=true" />
+     <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </p>
