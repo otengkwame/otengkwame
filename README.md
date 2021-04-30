@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm Developer Kwame.</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Developer Kwame.</h1>
 <h3 align="center"> A software engineer silently engineering my world. </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
 
 - 🔭 I’m currently working on <a href="https://pensyls.com" target="_blank">PenSyls</a>
 
@@ -11,6 +11,8 @@
 - 💬 Ask me about **PHP and JavaScript and I might also help in explaining some programming concepts**
 
 - 📫 How to reach me **developerkwame@gmail.com**
+
+## :ok_hand: Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otengkwame&show_icons=true" alt="otengkwame" /> </p>
 
@@ -23,6 +25,18 @@
 
 <br/>
 
+## :ok_hand: Top Programming Languages
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otengkwame&layout=compact" alt="otengkwame top languages"/>
+</p>
+
+## :fire: Streak stats
+
+<p align="center"> 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD)](https://git.io/streak-stats)
+</p>
+## :ok_hand: Activity Graph
+
+<p align="center"> 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=otengkwame&bg_color=ffffff&color=9e4c98&line=5b4c9e&point=bf0303&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
