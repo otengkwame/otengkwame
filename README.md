@@ -32,10 +32,6 @@
 
 ## :fire: Streak stats
 
-<p align="center"> 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD)](https://git.io/streak-stats)
-</p>
-
 <p align="center">
     <img alt="Oteng Kwame's streak" src="http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD"/>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
