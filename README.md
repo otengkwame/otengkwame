@@ -2,7 +2,7 @@
 <h3 align="center"> A software engineer silently engineering my world. </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
 
-- 🔭 I’m currently working on <a href="https://seguah.com" target="_blank">Seguah</a>
+- 🔭 I’m currently working on <a href="https://pensyls.com" target="_blank">PenSyls</a>
 
 - 👯 I’m extending CodeIgniter 3 to work with modern PHP principles and also to make it easy for beginners. Already started working on an experiment and the name is "Webby".  Link here: <a href="https://github.com/sylynder/webby" target="_blank">Webby</a>
 
