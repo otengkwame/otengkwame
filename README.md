@@ -1,6 +1,5 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Developer Kwame.</h1>
 <h3 align="center"> A software engineer silently engineering my world. </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=otengkwame" alt="otengkwame" /> </p>
 
 - 🔭 I’m currently working on <a href="https://pensyls.com" target="_blank">PenSyls</a>
 
