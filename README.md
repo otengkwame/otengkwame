@@ -22,7 +22,7 @@
 <a href="https://dev.to/otengkwame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="otengkwame" height="20" width="20" /></a>
 <a href="https://twitter.com/akonic2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akonic2" height="20" width="20" /></a>
 <a href="https://instagram.com/otengkwame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="otengkwame" height="20" width="20" /></a>
-</p>
+</p>s
 
 <br/>
 
