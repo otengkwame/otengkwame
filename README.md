@@ -44,3 +44,5 @@
 <img alt="Oteng Kwame's activity graph" src="https://activity-graph.herokuapp.com/graph?username=otengkwame&bg_color=ffffff&color=9e4c98&line=5b4c9e&point=bf0303&area=true&hide_border=true" />
      <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </p>
+
+![Snake animation](https://github.com/otengkwame/otengkwame/blob/output/github-contribution-grid-snake.svg)
