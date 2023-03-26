@@ -34,7 +34,7 @@
 ## :fire: Streak stats
 
 <p align="center">
-    <img alt="Oteng Kwame's streak" src="http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD"/>
+    <img alt="Oteng Kwame's streak" src="http://github-readme-streak-stats.herokuapp.com?user=otengkwame&dates=4335DD&theme=nord"/>
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
@@ -45,9 +45,6 @@
      <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </p>
 
-
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=otengkwame&theme=nord" alt="Trophies"><br/><br/>
-<img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
-<img src="overview.svg" alt="Overview" width="600"><br/><br/>
 <p/>
