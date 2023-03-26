@@ -43,6 +43,8 @@
 <p align="center"> 
 <img alt="Oteng Kwame's activity graph" src="https://activity-graph.herokuapp.com/graph?username=otengkwame&bg_color=ffffff&color=9e4c98&line=5b4c9e&point=bf0303&area=true&hide_border=true" />
      <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=otengkwame&bg_color=3d3846&color=ffffff&line=9e4c98&point=f6f5f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <p align="center">
