@@ -15,7 +15,7 @@
 
 ## :ok_hand: Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otengkwame&show_icons=true" alt="otengkwame" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otengkwame&show_icons=true&theme=nord" alt="otengkwame rankings" /> </p>
 
 <p align="center">
 <a href="https://codepen.io/otengkwame" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="otengkwame" height="20" width="20" /></a>
@@ -28,7 +28,7 @@
 
 ## :ok_hand: Top Programming Languages
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otengkwame&layout=compact" alt="otengkwame top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otengkwame&layout=compact&theme=nord" alt="otengkwame top languages"/>
 </p>
 
 ## :fire: Streak stats
@@ -47,10 +47,7 @@
 
 
 <p align="center">
-<img src="https://github.com/otengkwame/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
-<img src="https://github.com/otengkwame/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/>
 <img src="https://github-profile-trophy.vercel.app/?username=otengkwame&theme=nord" alt="Trophies"><br/><br/>
 <img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
 <img src="overview.svg" alt="Overview" width="600"><br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=otengkwame&show_icons=true&theme=nord" alt="Ranking">
 <p/>
