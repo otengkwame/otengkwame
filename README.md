@@ -44,3 +44,13 @@
 <img alt="Oteng Kwame's activity graph" src="https://activity-graph.herokuapp.com/graph?username=otengkwame&bg_color=ffffff&color=9e4c98&line=5b4c9e&point=bf0303&area=true&hide_border=true" />
      <!-- (https://github.com/ashutosh00710/github-readme-activity-graph) -->
 </p>
+
+
+<p align="center">
+<img src="https://github.com/otengkwame/gh-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
+<img src="https://github.com/otengkwame/gh-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Most used languages"><br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=otengkwame&theme=nord" alt="Trophies"><br/><br/>
+<img src="achievements.svg" alt="Achievements" width="600"><br/><br/>
+<img src="overview.svg" alt="Overview" width="600"><br/><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=otengkwame&show_icons=true&theme=nord" alt="Ranking">
+<p/>
