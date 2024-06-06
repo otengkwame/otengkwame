@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **developerkwame@gmail.com**
 
-- What I'm Currently Reading 📚: Side Hustle: Link here: <a href="https://www.amazon.com/Side-Hustle-GUILLEBEAU-CHRIS/dp/1509859055" target="_blank">Build a side business and make extra money without quitting your day job</a>
+- What I'm Currently Reading 📚: <a href="https://www.amazon.com/Side-Hustle-GUILLEBEAU-CHRIS/dp/1509859055" target="_blank">Side Hustle: Build a side business and make extra money without quitting your day job</a>
 
 
 ## :ok_hand: Github Stats
