@@ -13,6 +13,9 @@
 
 - 📫 How to reach me **developerkwame@gmail.com**
 
+- What I'm Currently Reading 📚: Side Hustle: Link here: <a href="https://www.amazon.com/Side-Hustle-GUILLEBEAU-CHRIS/dp/1509859055" target="_blank">Build a side business and make extra money without quitting your day job</a>
+
+
 ## :ok_hand: Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=otengkwame&show_icons=true&theme=nord" alt="otengkwame rankings" /> </p>
