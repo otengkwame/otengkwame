@@ -55,3 +55,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=otengkwame&theme=nord" alt="Trophies"><br/><br/>
 <p/>
+
+## 🤖 Daily DevCard
+<a href="https://app.daily.dev/developerkwame"><img src="https://api.daily.dev/devcards/v2/nKDQITDxjirA6sjjW7A3P.png?type=wide&r=7hx" width="652" alt="Kwame Oteng Appiah-Nti's Dev Card"/></a>
