@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on <a href="https://webbyphp.top" target="_blank">WebbyPHP</a>
 
-- 👯 I’m extending CodeIgniter 3 to work with modern PHP principles and also to make it easy for beginners. Already started working on an experiment and the name is "Webby".  Link here: <a href="https://github.com/sylynder/webby" target="_blank">Webby</a>
+- 👯 I’m extending CodeIgniter 3 to work with modern PHP principles and also to make it easy for beginners. Already started working on an experiment and the name is "Webby".  Link here: <a href="https://github.com/sylynder/webby" target="_blank">WebbyPHP</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://developerkwame.xyz" target="_blank">developerkwame.xyz</a>
 
